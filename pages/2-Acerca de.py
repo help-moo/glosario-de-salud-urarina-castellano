@@ -1,7 +1,7 @@
 import streamlit as st
 
 ######### CONFIG #########
-st.set_page_config(page_title="Acerca de", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Acerca de", initial_sidebar_state="collapsed")
 
 ######### TÍTULO Y TEXTO #########
 st.markdown("""
